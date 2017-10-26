@@ -1,5 +1,5 @@
 # cordova-plugin-esptouch
-smartconfig配网
+smartconfig配网 来源：https://github.com/GTDistance/cordova-plugin-esptouch.git
 
 esptouch cordova插件，支持esp8266
  
