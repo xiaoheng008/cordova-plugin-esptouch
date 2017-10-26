@@ -1,5 +1,7 @@
 # cordova-plugin-esptouch
 smartconfig配网
+
+esptouch cordova插件，支持esp8266
  
 ios端编译出错，找不到.h文件，
 解决方案：
