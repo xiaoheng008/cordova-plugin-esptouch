@@ -7,3 +7,6 @@ ios端编译出错，找不到.h文件，
 解决方案：
 在Build Phases -> Compile Sources 中手动添加ios工程中，Plugins/esptouch/ 文件夹下的所有文件，添加之后会在Xcode工程根目录下显示。
 然后再次编译
+
+----------------
+修改编译出错的问题，在plugin.xml中把所有的文件都设置为复制到与esptouchPlugin.h同一目录即可
